@@ -2,7 +2,7 @@
 
 **ML Engineering Leader | AI Agents & Speech**
 
-Нижний Новгород, Россия · Remote · victor.zaguskin@gmail.com · +7 910 793 13 42
+Nizhny Novgorod, Russia · Remote · victor.zaguskin@gmail.com · +7 910 793 13 42
 
 [LinkedIn](https://linkedin.com/in/vzaguskin) · [GitHub](https://github.com/vzaguskin) · [Telegram](https://t.me/vzaguskin) · [Habr](https://habr.com/ru/users/vzaguskin/articles/)
 
@@ -12,11 +12,11 @@
 
 ## Summary
 
-ML Engineering Leader с 15+ летним опытом в разработке production ML-систем и руководстве командами. Специализируюсь на machine learning, deep learning, speech recognition (ASR), speech synthesis (TTS), AI agents и realtime voice systems. Строю AI-агентов с voice modality — от архитектуры streaming pipeline до продуктового внедрения.
+ML Engineering Leader with 15+ years of experience building production ML systems and leading teams. Specializing in machine learning, deep learning, speech recognition (ASR), speech synthesis (TTS), AI agents, and realtime voice systems. Building AI agents with voice modality — from streaming pipeline architecture to product deployment.
 
-Управляю организацией из 33 человек, 5 команд, полный цикл: data science исследования, machine learning архитектура, model training, production deployment, MLOps, мониторинг.
+Leading a 33-person, 5-team ML organization. Full cycle: data science research, machine learning architecture, model training, production deployment, MLOps, monitoring.
 
-Hands-on: Python, C++, Rust. Параллельно строю pet-проекты: голосовой AI agent с function calling и streaming TTS/ASR, RAG-система для юридических документов на Rust, multi-agent pipeline.
+Hands-on: Python, C++, Rust. Building pet projects in parallel: voice AI agent with function calling and streaming TTS/ASR, RAG system for legal documents in Rust, multi-agent pipeline.
 
 ---
 
@@ -26,7 +26,7 @@ Hands-on: Python, C++, Rust. Параллельно строю pet-проект�
 
 **Engineering:** Python, C++, Rust, PyTorch, TensorFlow, Docker, Linux, ONNX, Streaming Architecture, Realtime Systems, MLOps, REST API, gRPC, ONNX Runtime, TensorRT
 
-**Leadership & Management:** People Management (33 человек, 5 команд), Team Building, Cross-functional Collaboration, Stakeholder Management, OKR, Performance Review, Technical Hiring, Roadmap Planning, Agile
+**Leadership & Management:** People Management (33 engineers, 5 teams), Team Building, Cross-functional Collaboration, Stakeholder Management, OKR, Performance Review, Technical Hiring, Roadmap Planning, Agile
 
 ---
 
@@ -34,9 +34,9 @@ Hands-on: Python, C++, Rust. Параллельно строю pet-проект�
 
 ### MTS AI — Head of Voice ML / ML Engineering Leader
 
-**Сентябрь 2022 — настоящее время** · 5 команд, 33 человека · Remote
+**September 2022 — Present** · 5 teams, 33 people · Remote
 
-Руковожу полным циклом разработки machine learning и speech technologies для ключевых продуктов МТС: виртуальный ассистент, голосовой бот "Секретарь", интеграция с Wildberries. Управляю team leads, ставлю goals, провожу performance review.
+Leading the full cycle of machine learning and speech technology development for key MTS products: virtual assistant, voice bot "Secretary", Wildberries integration. Managing team leads, setting goals, conducting performance reviews.
 
 **Key achievements:**
 - Reduced WER by 3-5 percentage points across all key products (assistant, voice bot, secretary) through model training and data pipeline optimization
@@ -53,31 +53,31 @@ Hands-on: Python, C++, Rust. Параллельно строю pet-проект�
 
 ### MTS AI — Senior ML Engineer (Speech Recognition)
 
-**Сентябрь 2021 — Сентябрь 2022**
+**September 2021 — September 2022**
 
 Deep learning model training for ASR and noise reduction. Production deployment: streaming inference mode, ONNX conversion, mobile deployment optimization. Worked on PyTorch model training pipelines and data processing infrastructure.
 
 ### Qligent — Machine Learning Engineer
 
-**Июнь 2017 — Ноябрь 2020**
+**June 2017 — November 2020**
 
 Built machine learning models for time series analysis and forecasting. Python, TensorFlow, CatBoost, ClickHouse. Data science for large-scale data processing.
 
 ### CPSSoftware — Founder & Developer
 
-**Январь 2019 — Ноябрь 2020** (parallel with Qligent)
+**January 2019 — November 2020** (parallel with Qligent)
 
 Founded and developed commercial computer vision applications: automatic photo segmentation, object detection, visual effects. Built products using C++/Qt, Python, Android. Managed product lifecycle from idea to commercial release.
 
 ### Mera — Senior Engineer (Computer Vision)
 
-**Октябрь 2015 — Июнь 2017**
+**October 2015 — June 2017**
 
 Computer vision algorithms: detection, segmentation, classification. Python, C++, OpenCV, Keras, deep learning. Applied classical machine learning and convolutional neural networks for image analysis.
 
 ### Intel — Software Engineer, Group Lead
 
-**Июнь 2000 — Октябрь 2015** · 9 years
+**June 2000 — October 2015** · 9 years
 
 **2003-2009:** Developed Intel Threading Tools and Intel Parallel Studio (C++, Linux/Windows). From 2006 — led engineering group: task planning, performance reviews, coordination with US-based teams. Presented at conferences on multithreaded application optimization.
 
