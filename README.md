@@ -2,7 +2,7 @@
 
 **ML Engineering Leader | AI Agents & Speech**
 
-Нижний Новгород, Россия · Remote · victor.zaguskin@gmail.com
+Нижний Новгород, Россия · Remote · victor.zaguskin@gmail.com · +7 910 793 13 42
 
 [LinkedIn](https://linkedin.com/in/vzaguskin) · [GitHub](https://github.com/vzaguskin) · [Telegram](https://t.me/vzaguskin) · [Habr](https://habr.com/ru/users/vzaguskin/articles/)
 
@@ -10,100 +10,96 @@
 
 ## Summary
 
-Руковожу разработкой production ML-систем: realtime voice agents, speech recognition (ASR), synthesis (TTS), VAD, anti-spoofing. Строю AI-агентов с voice modality — от архитектуры realtime pipeline до продуктового внедрения.
+ML Engineering Leader с 15+ летним опытом в разработке production ML-систем и руководстве командами. Специализируюсь на machine learning, deep learning, speech recognition (ASR), speech synthesis (TTS), AI agents и realtime voice systems. Строю AI-агентов с voice modality — от архитектуры streaming pipeline до продуктового внедрения.
 
-Управляю организацией из 33 человек, 5 команд, полный цикл: исследования, архитектура, разработка, продакшн, мониторинг.
+Управляю организацией из 33 человек, 5 команд, полный цикл: data science исследования, machine learning архитектура, model training, production deployment, MLOps, мониторинг.
 
-Путь: инженер OpenCV (Intel, 9 лет) → основатель стартапа (CV, 6 лет) → ML инженер → Head of Voice ML (MTS AI, 3.5 года).
-
-Hands-on: Python, C++, Rust. Параллельно строю pet-проекты: голосовой агент с function calling и streaming TTS/ASR, RAG-система на Rust.
+Hands-on: Python, C++, Rust. Параллельно строю pet-проекты: голосовой AI agent с function calling и streaming TTS/ASR, RAG-система для юридических документов на Rust, multi-agent pipeline.
 
 ---
 
-## Навыки
+## Skills
 
-**ML/AI:** Speech Recognition (ASR), Speech Synthesis (TTS), Voice Activity Detection (VAD), Endpoint Detection (EPD), Anti-spoofing, Voice Cloning, AI Agents, RAG, LLM Orchestration, Streaming Inference
+**Machine Learning & AI:** Speech Recognition (ASR), Speech Synthesis (TTS), Voice Activity Detection (VAD), Endpoint Detection (EPD), Anti-spoofing, Voice Cloning, AI Agents, Multi-agent Systems, RAG (Retrieval-Augmented Generation), LLM Orchestration, NLP, Computer Vision, Deep Learning, Streaming Inference, Model Training, Vector Databases, Function Calling
 
-**Инженering:** Python, C++, Rust, PyTorch, TensorFlow, Docker, Linux, ONNX, Streaming Architecture, Realtime Systems, MLOps
+**Engineering:** Python, C++, Rust, PyTorch, TensorFlow, Docker, Linux, ONNX, Streaming Architecture, Realtime Systems, MLOps, REST API, gRPC, ONNX Runtime, TensorRT
 
-**Leadership:** People Management (33 чел.), Cross-functional Collaboration, Stakeholder Management, OKR, Performance Review, Technical Hiring
+**Leadership & Management:** People Management (33 человек, 5 команд), Team Building, Cross-functional Collaboration, Stakeholder Management, OKR, Performance Review, Technical Hiring, Roadmap Planning, Agile
 
 ---
 
-## Опыт работы
+## Experience
 
-### MTS AI — Руководитель центра компетенций Voice ML
+### MTS AI — Head of Voice ML / ML Engineering Leader
 
 **Сентябрь 2022 — настоящее время** · 5 команд, 33 человека · Remote
 
-Руковожу полным циклом разработки speech ML для ключевых продуктов МТС: виртуальный ассистент, голосовой бот "Секретарь", интеграция с Wildberries.
+Руковожу полным циклом разработки machine learning и speech technologies для ключевых продуктов МТС: виртуальный ассистент, голосовой бот "Секретарь", интеграция с Wildberries. Управляю team leads, ставлю goals, провожу performance review.
 
-**Доставленные результаты:**
-- Снижение WER на 3-5 п.п. на всех ключевых продуктах (ассистент, голосовой бот, секретарь)
-- Запуск продуктовых фич: Target-Speech VAD (+1 п.п. WER), conversational TTS, voice cloning, keyword spotting, frame-level VAD, acoustic punctuation
-- Построение ML-инфраструктуры: пайплайны дообучения, авторазметка данных, автоматизированный мониторинг экспериментов
+**Key achievements:**
+- Reduced WER by 3-5 percentage points across all key products (assistant, voice bot, secretary) through model training and data pipeline optimization
+- Launched production features: Target-Speech VAD (+1 pp WER), conversational TTS, voice cloning, keyword spotting, frame-level VAD, acoustic punctuation
+- Built ML infrastructure: model training pipelines, automated data labeling, experiment tracking, MLOps monitoring
+- Designed and deployed realtime voice agent pipeline: EPD, semantic VAD, barge-in detection, LLM orchestration, streaming TTS — end-to-end latency optimization
+- Developed endpoint detection methodology with tiered scoring, validated against Full-Duplex-Bench-v3
+- Optimized inference for production: streaming, ONNX conversion, TensorRT, mobile deployment
 
-**Техническое лидерство:**
-- Архитектура realtime voice agent pipeline: EPD → semantic VAD → barge-in detection → LLM orchestration → streaming TTS
-- Методология оценки endpoint detection с tiered scoring, validated against Full-Duplex-Bench-v3
-- Оптимизация inference: стриминг, ONNX conversion, production deployment
+**Organizational impact:**
+- Built and led 5 cross-functional teams (ASR, TTS, VAD/EPD, KWS, Infrastructure) from scratch
+- Hiring, mentoring, performance reviews, compensation management for 33 engineers
+- Stakeholder management, roadmap prioritization, OKR alignment across teams
 
-**Организационное развитие:**
-- Формирование структуры из 5 команд с чёткими зонами ответственности (ASR, TTS, VAD/EPD, KWS, Infrastructure)
-- Целеполагание, performance review, найм, управление компенсациями
-- Управление ожиданиями стейкхолдеров и приоритизация roadmap
-
-### MTS AI — Ведущий инженер ML (распознавание речи)
+### MTS AI — Senior ML Engineer (Speech Recognition)
 
 **Сентябрь 2021 — Сентябрь 2022**
 
-Обучение моделей ASR, reduction шумов, продуктивизация: стриминговый режим, ONNX conversion, mobile deployment.
+Deep learning model training for ASR and noise reduction. Production deployment: streaming inference mode, ONNX conversion, mobile deployment optimization. Worked on PyTorch model training pipelines and data processing infrastructure.
 
-### Qligent — ML инженер
+### Qligent — Machine Learning Engineer
 
 **Июнь 2017 — Ноябрь 2020**
 
-Модели ML для анализа и прогнозирования временных рядов. Python, TensorFlow, CatBoost, ClickHouse.
+Built machine learning models for time series analysis and forecasting. Python, TensorFlow, CatBoost, ClickHouse. Data science for large-scale data processing.
 
-### CPSSoftware — Основатель стартапа
+### CPSSoftware — Founder & Developer
 
-**Январь 2019 — Ноябрь 2020** (параллельно с Qligent)
+**Январь 2019 — Ноябрь 2020** (parallel with Qligent)
 
-Разработка коммерческих CV-приложений: автоматическая сегментация фото, детекция объектов, визуальные эффекты. C++/Qt, Python, Android.
+Founded and developed commercial computer vision applications: automatic photo segmentation, object detection, visual effects. Built products using C++/Qt, Python, Android. Managed product lifecycle from idea to commercial release.
 
-### Mera — Старший инженер (Computer Vision)
+### Mera — Senior Engineer (Computer Vision)
 
 **Октябрь 2015 — Июнь 2017**
 
-Алгоритмы CV: детекция, сегментация, классификация. Python, C++, OpenCV, Keras.
+Computer vision algorithms: detection, segmentation, classification. Python, C++, OpenCV, Keras, deep learning. Applied classical machine learning and convolutional neural networks for image analysis.
 
-### Intel — Программист-разработчик, руководитель группы
+### Intel — Software Engineer, Group Lead
 
-**Июнь 2000 — Октябрь 2015** · 9 лет
+**Июнь 2000 — Октябрь 2015** · 9 years
 
-**2003–2009:** Разработка Intel Threading Tools и Intel Parallel Studio (C++, Linux/Windows). С 2006 — руководитель группы: постановка задач, performance review, координация с командами в США. Выступления на конференциях по оптимизации многопоточных приложений.
+**2003-2009:** Developed Intel Threading Tools and Intel Parallel Studio (C++, Linux/Windows). From 2006 — led engineering group: task planning, performance reviews, coordination with US-based teams. Presented at conferences on multithreaded application optimization.
 
-**До 2003:** Инженер-разработчик библиотеки OpenCV, инженер по тестированию компилятора C++ Intel.
-
----
-
-## Публикации и выступления
-
-- **Доклад «Технологии распознавания речи: архитектурная эволюция»** — YouTube-канал AI4Dev (17K подписчиков), 2025. [Смотреть](https://www.youtube.com/watch?v=ze_prIHzKDI)
-- **Доклад «Клонирование голоса: гонка вооружений между дипфейками и детекторами»** — YouTube-канал AI4Dev, 2025. [Смотреть](https://www.youtube.com/watch?v=ObB3mjcbVFQ)
-- **Подкаст «Анатомия дипфейков: как устроены атаки и как их распознать»** — MTS AI «Инсайт», 2025. [Слушать](https://www.youtube.com/watch?v=ATP9ZkhRzmg)
-- **Технические статьи на Хабре** — Voice AI, speech technologies, ML. [Статьи](https://habr.com/ru/users/vzaguskin/articles/)
+**Before 2003:** OpenCV library developer, Intel C++ compiler test engineer.
 
 ---
 
-## Образование
+## Publications & Talks
 
-**Московский физико-технический институт (МФТИ)** · 1995–2000
-Прикладная математика и физика
+- **Talk "Speech Recognition Technologies: Architectural Evolution"** — AI4Dev YouTube channel (17K subscribers), 2025. [Watch](https://www.youtube.com/watch?v=ze_prIHzKDI)
+- **Talk "Voice Cloning: Arms Race Between Deepfakes and Detectors"** — AI4Dev YouTube channel, 2025. [Watch](https://www.youtube.com/watch?v=ObB3mjcbVFQ)
+- **Podcast "Anatomy of Deepfakes: How Attacks Work and How to Detect Them"** — MTS AI "Insight", 2025. [Listen](https://www.youtube.com/watch?v=ATP9ZkhRzmg)
+- **Technical articles on Habr** — Voice AI, speech technologies, machine learning, AI agents. [Articles](https://habr.com/ru/users/vzaguskin/articles/)
 
 ---
 
-## Языки
+## Education
 
-**Английский:** C1/C2 — Advanced / Fluent (читаю technical documentation, выступаю, веду переговоры)
-**Русский:** родной
+**Moscow Institute of Physics and Technology (MIPT)** · 1995-2000
+Applied Mathematics and Physics
+
+---
+
+## Languages
+
+**English:** C1/C2 — Advanced / Fluent (technical documentation, presentations, negotiations)
+**Russian:** Native
