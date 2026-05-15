@@ -2,7 +2,7 @@
 
 **ML Engineering Leader | AI Agents & Speech**
 
-Нижний Новгород, Россия · Remote · v.zaguskin@mts.ai
+Нижний Новгород, Россия · Remote · victor.zaguskin@gmail.com
 
 [LinkedIn](https://linkedin.com/in/vzaguskin) · [GitHub](https://github.com/vzaguskin) · [Telegram](https://t.me/vzaguskin) · [Habr](https://habr.com/ru/users/vzaguskin/articles/)
 
