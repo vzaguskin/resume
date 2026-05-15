@@ -6,6 +6,8 @@
 
 [LinkedIn](https://linkedin.com/in/vzaguskin) · [GitHub](https://github.com/vzaguskin) · [Telegram](https://t.me/vzaguskin) · [Habr](https://habr.com/ru/users/vzaguskin/articles/)
 
+[Русская версия](./README.ru.md)
+
 ---
 
 ## Summary
