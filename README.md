@@ -16,7 +16,7 @@ Head of ML Engineering with 25+ years in software development and 15+ years in p
 
 Currently heading a 33-person, 5-team ML organization at MTS AI. Responsible for research, architecture, model training, and production handoff of speech and voice AI technologies.
 
-Hands-on: Python, C++, Rust. Active contributor to open-source: [machinelearne-rs](https://github.com/vzaguskin/machinelearne-rs) (ML framework in Rust), [Ori](https://github.com/vzaguskin/orin) (voice assistant on edge hardware), [TFMentations](https://github.com/vzaguskin/TFMentations) (augmentations library). Building pet projects: voice AI agent with function calling and streaming TTS/ASR, multi-agent pipeline with LangGraph.
+Hands-on: Python, C++, Rust. Open-source pet projects: [machinelearne-rs](https://github.com/vzaguskin/machinelearne-rs) (ML framework in Rust), [Ori](https://github.com/vzaguskin/orin) (voice assistant on edge hardware), [TFMentations](https://github.com/vzaguskin/TFMentations) (augmentations library). Currently building: voice AI agent with function calling and streaming TTS/ASR, multi-agent pipeline with LangGraph.
 
 ---
 
