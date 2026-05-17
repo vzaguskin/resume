@@ -1,6 +1,6 @@
 # Victor Zaguskin
 
-**ML Engineering Leader | AI Agents & Speech**
+**Head of ML Engineering | AI Agents & Speech**
 
 Nizhny Novgorod, Russia · Remote · victor.zaguskin@gmail.com · +7 910 793 13 42
 
@@ -12,11 +12,11 @@ Nizhny Novgorod, Russia · Remote · victor.zaguskin@gmail.com · +7 910 793 13 
 
 ## Summary
 
-ML Engineering Leader with 15+ years of experience building production ML systems and leading teams. Specializing in machine learning, deep learning, speech recognition (ASR), speech synthesis (TTS), AI agents, and realtime voice systems. Building AI agents with voice modality — from streaming pipeline architecture to product deployment.
+Head of ML Engineering with 25+ years in software development and 15+ years in production ML systems. Leading teams since 2006. Specializing in machine learning, deep learning, speech recognition (ASR), speech synthesis (TTS), AI agents, and realtime voice systems. Building AI agents with voice modality — from streaming pipeline architecture to product deployment.
 
-Leading a 33-person, 5-team ML organization. Full cycle: data science research, machine learning architecture, model training, production deployment, MLOps, monitoring.
+Currently heading a 33-person, 5-team ML organization at MTS AI. Responsible for research, architecture, model training, and production handoff of speech and voice AI technologies.
 
-Hands-on: Python, C++, Rust. Building pet projects in parallel: voice AI agent with function calling and streaming TTS/ASR, RAG system for legal documents in Rust, multi-agent pipeline.
+Hands-on: Python, C++, Rust. Active contributor to open-source: [machinelearne-rs](https://github.com/vzaguskin/machinelearne-rs) (ML framework in Rust), [Ori](https://github.com/vzaguskin/orin) (voice assistant on edge hardware), [TFMentations](https://github.com/vzaguskin/TFMentations) (augmentations library). Building pet projects: voice AI agent with function calling and streaming TTS/ASR, multi-agent pipeline with LangGraph.
 
 ---
 
@@ -24,7 +24,9 @@ Hands-on: Python, C++, Rust. Building pet projects in parallel: voice AI agent w
 
 **Machine Learning & AI:** Speech Recognition (ASR), Speech Synthesis (TTS), Voice Activity Detection (VAD), Endpoint Detection (EPD), Anti-spoofing, Voice Cloning, AI Agents, Multi-agent Systems, RAG (Retrieval-Augmented Generation), LLM Orchestration, NLP, Computer Vision, Deep Learning, Streaming Inference, Model Training, Vector Databases, Function Calling
 
-**Engineering:** Python, C++, Rust, PyTorch, TensorFlow, Docker, Linux, ONNX, Streaming Architecture, Realtime Systems, MLOps, REST API, gRPC, ONNX Runtime, TensorRT
+**AI Tools & Frameworks:** Claude, Hermes Agent, LangGraph, LangChain, PyTorch, TensorFlow, Hugging Face Transformers
+
+**Engineering:** Python, C++, Rust, PyTorch, TensorFlow, Docker, Linux, ONNX, Streaming Architecture, Realtime Systems, REST API, gRPC, TensorRT
 
 **Leadership & Management:** People Management (33 engineers, 5 teams), Team Building, Cross-functional Collaboration, Stakeholder Management, OKR, Performance Review, Technical Hiring, Roadmap Planning, Agile
 
@@ -32,23 +34,25 @@ Hands-on: Python, C++, Rust. Building pet projects in parallel: voice AI agent w
 
 ## Experience
 
-### MTS AI — Head of Voice ML / ML Engineering Leader
+### MTS AI — Head of Voice ML / Head of ML Engineering
 
 **September 2022 — Present** · 5 teams, 33 people · Remote
 
-Leading the full cycle of machine learning and speech technology development for key MTS products: virtual assistant, voice bot "Secretary", Wildberries integration. Managing team leads, setting goals, conducting performance reviews.
+Leading research, development, and production handoff of speech technologies for MTS products: voice support bot, contact center speech analytics, intelligent call services. Managing team leads, setting goals, conducting performance reviews.
 
 **Key achievements:**
-- Reduced WER by 3-5 percentage points across all key products (assistant, voice bot, secretary) through model training and data pipeline optimization
-- Launched production features: Target-Speech VAD (+1 pp WER), conversational TTS, voice cloning, keyword spotting, frame-level VAD, acoustic punctuation
-- Built ML infrastructure: model training pipelines, automated data labeling, experiment tracking, MLOps monitoring
-- Designed and deployed realtime voice agent pipeline: EPD, semantic VAD, barge-in detection, LLM orchestration, streaming TTS — end-to-end latency optimization
-- Developed endpoint detection methodology with tiered scoring, validated against Full-Duplex-Bench-v3
-- Optimized inference for production: streaming, ONNX conversion, TensorRT, mobile deployment
+- **ASR:** Deployed new streaming-capable architecture to production. Reduced WER by 2 pp on core telephone channel datasets, with regular incremental improvements (~1-1.5 pp per quarter). Achieved >5x inference throughput increase
+- **TTS:** Deployed new speech synthesis architecture with MOS improvement >0.2, competitive with best Russian vendors. Launched voice cloning feature to production
+- **Anti-spoofing:** Built and launched voice anti-spoofing service from research to production
+- **Custom features:** Delivered keyword spotting and voice biometrics for specific enterprise clients
+- **Text preprocessing:** Ported TTS text preprocessing pipeline to Rust, achieving 10x+ speedup with improved stability
+- **ML infrastructure:** Built model training pipelines, automated data labeling, experiment tracking systems
+
+**Current focus — Realtime Voice API:** Leading a cross-functional team (analyst, architect, developers) to build a realtime voice agent pipeline. PoC stage — EPD, semantic VAD, LLM orchestration, streaming TTS. Developing evaluation methodology for realtime voice systems.
 
 **Organizational impact:**
-- Built and led 5 cross-functional teams (ASR, TTS, VAD/EPD, KWS, Infrastructure) from scratch
-- Hiring, mentoring, performance reviews, compensation management for 33 engineers
+- Grew organization from 3 to 5 teams. Replaced departing tech leads by promoting internally (3 leads) and hiring externally (1 lead). All integrated well into product, receiving strong feedback from product owners and stakeholders
+- Hiring, mentoring, performance reviews for 33 engineers
 - Stakeholder management, roadmap prioritization, OKR alignment across teams
 
 ### MTS AI — Senior ML Engineer (Speech Recognition)
